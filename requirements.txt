@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+prophet
+statsmodels
+apache-airflow
+google-cloud-bigquery
+matplotlib
+seaborn
+jupyter
